@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/ASCII.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icons/ASCII.ico</file>
+        <file>icons/caculate.ico</file>
+        <file>icons/clear.ico</file>
+        <file>icons/exit.ico</file>
+        <file>icons/file.ico</file>
+        <file>icons/log.ico</file>
+        <file>icons/look.ico</file>
+        <file>icons/mainWindow.ico</file>
+        <file>icons/start.ico</file>
+        <file>icons/stop.ico</file>
+        <file>icons/us.ico</file>
+        <file>icons/version.ico</file>
+    </qresource>
+</RCC>
